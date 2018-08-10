@@ -6,6 +6,7 @@
 @Github: https://github.com/emanuele
 @Desc  : - 用logistic regression做stacking
          - 该script中，Emanuele中将stacking称为blending
+         - 有大神用这个脚本，Stacking 8 base models (diverse ET’s, RF’s and GBM’s) with Logistic Regression gave me my second best score of 0.99409 accuracy, good for first place.
 """
 
 from __future__ import division
