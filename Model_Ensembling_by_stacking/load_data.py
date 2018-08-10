@@ -1,5 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """
-Functions to load the dataset.
+@Author: Emanuele Olivetti
+@Github: https://github.com/emanuele
 """
 
 import numpy as np
